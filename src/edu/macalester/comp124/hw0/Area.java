@@ -2,6 +2,7 @@ package edu.macalester.comp124.hw0;
 
 /**
  * @author Shilad Sen
+ * Modified by Richard Tian
  */
 public class Area {
     /**
